@@ -1,6 +1,6 @@
 Pod::Spec.new do |spec|
   spec.name         = 'YDAdModule_cxt'
-  spec.version      = '1.0.13'
+  spec.version      = '1.0.14'
   spec.license      = { :type => 'MIT' }
   spec.homepage     = 'https://github.com/yuedong12345/adsdk_cxt.git'
   spec.authors      = { 'yuedong12345' => 'yuedong12345@126.com' }
