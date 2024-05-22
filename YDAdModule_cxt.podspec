@@ -1,6 +1,6 @@
 Pod::Spec.new do |spec|
   spec.name         = 'YDAdModule_cxt'
-  spec.version      = '1.0.16'
+  spec.version      = '1.0.17'
   spec.license      = { :type => 'MIT' }
   spec.homepage     = 'https://github.com/yuedong12345/adsdk_cxt.git'
   spec.authors      = { 'yuedong12345' => 'yuedong12345@126.com' }
@@ -9,7 +9,7 @@ Pod::Spec.new do |spec|
   spec.platform     = :ios, '10.0'
   spec.vendored_frameworks = 'YDAdModule.framework'
   spec.resources = 'YDAdModule.bundle'
-  spec.dependency 'Ads-Fusion-CN-Beta/CSJMediation', '5.9.0.7'
+  spec.dependency 'Ads-Fusion-CN-Beta/CSJMediation', '6.0.1.3'
   spec.dependency 'CSJMGdtAdapter', '4.14.45.0'
   spec.dependency 'CSJMBaiduAdapter', '5.325.1'
   spec.dependency 'CSJMKsAdapter', '3.3.55.0.0'
